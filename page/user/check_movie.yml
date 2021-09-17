@@ -1,0 +1,50 @@
+premise:
+- address: /ajax/comingList
+  cookies: true
+  depend: false
+  file: false
+  headers:
+    Content-Type: application/json; charset=utf-8
+    User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/72.0.3626.121 Safari/537.36
+  http_type: http
+  info: movie
+  parameter:
+    ci: 10
+    limit: 10
+    token: ''
+  parameter_type: application/x-www-form-urlencoded
+  rele_depend: id
+  relevance: id
+  request_type: get
+  test_name: check_movie
+  timeout: 20
+test_case:
+- address: /ajax/detailmovie
+  check:
+    check_type: json
+    expected_code: 200
+    expected_request: check_movie.json
+  cookies: true
+  depend: true
+  file: false
+  headers:
+    Content-Type: application/json; charset=utf-8
+    User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/72.0.3626.121 Safari/537.36
+  http_type: http
+  info: caipu
+  parameter:
+    movieId: 569718
+    time: 123
+  parameter_type: application/x-www-form-urlencoded
+  rele_depend: movieId
+  relevance: None
+  request_type: get
+  test_name: check_movie
+  timeout: 20
+test_info:
+  address: /ajax/comingList
+  host: m.maoyan.com
+  id: test_checkmovie_01
+  title: movie

@@ -1,0 +1,27 @@
+[
+ {
+  "test_name": "vip_pay",
+  "json": {
+   "code": 200,
+   "data": {
+    "amount": 39.7,
+    "bizKey": "2",
+    "body": "alipay_sdk=alipay-sdk-java-3.7.73.ALL&app_id=2021002117663516&biz_content=%7B%22body%22%3A%22%E5%AD%A3%E5%8D%A1%22%2C%22out_trade_no%22%3A%222570737444283842560%22%2C%22product_code%22%3A%22QUICK_MSECURITY_PAY%22%2C%22subject%22%3A%22%E5%AD%A3%E5%8D%A1%22%2C%22total_amount%22%3A%2239.7%22%7D&charset=UTF-8&format=json&method=alipay.trade.app.pay&notify_url=http%3A%2F%2Fapi.652615.com%2Fliuyi%2Fcloud%2Fuser%2Fpayment%2Fali_notify&sign=T2psaKaKJMQHRkj0BxBDRUT9PLOtCui76fx9YayZFIdkBRG6HKOlorG8yrxwKUxRyo73jjePBmQKO8taiSel9r4n3WqNENwmb6DyhxMRXGtZkxbMieOX9OY4ccPaat%2F%2BXKg%2Fc8sUoCOXiF4uMzXgGkltEeW%2F8%2BiGtQFqtWw%2F%2F5XnOwX%2FEAdLHHBRkcU5IYMbqnc4cZdgRPDsLrBhvg9Wg%2B%2BbsiMiVAgqwK4Dob4Ct8GXQXYqGr6696CwcZVpx2Dis6D9VXoBfuVf8QhTkhGTRUGHIsMA%2FBHzOUwMX01UkWFjn7v4z3%2FoLSeevtRupcYNFjh7KC0%2BpD55tV1vwS7j3g%3D%3D&sign_type=RSA2&timestamp=2021-09-17+11%3A06%3A11&version=1.0",
+    "code_url": "",
+    "couponAmount": 0,
+    "cp": null,
+    "discountPrice": 39.7,
+    "goodsDesc": "季卡",
+    "goodsName": "尊享VIP（ 客服WX：TK150015 )",
+    "goodsQuantity": 1,
+    "mweb_url": "",
+    "out_trade_no": "2570737444283842560",
+    "payType": "",
+    "payWay": "",
+    "prepay_id": "",
+    "price": 199.7
+   },
+   "message": ""
+  }
+ }
+]

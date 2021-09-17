@@ -1,0 +1,111 @@
+[
+ {
+  "test_name": "check_movie",
+  "json": {
+   "detailMovie": {
+    "availableEpisodes": 0,
+    "awardUrl": "",
+    "backgroundColor": "#336629",
+    "bingeWatch": 0,
+    "bingeWatchst": 0,
+    "cat": "青春,爱情",
+    "comScorePersona": false,
+    "commented": false,
+    "dir": "林子平,孙睿,高炳权",
+    "distributions": [
+     {
+      "movieScoreLevel": "9-10分",
+      "proportion": "--"
+     },
+     {
+      "movieScoreLevel": "5-8分",
+      "proportion": "--"
+     },
+     {
+      "movieScoreLevel": "1-4分",
+      "proportion": "--"
+     }
+    ],
+    "dra": "大学军训里一场意外，让乖乖女周舟（王可如 饰）和学渣混混邱飞（刘冬沁 饰），彼此相遇。从英雄救美到勇敢表白，张扬的邱飞就这样走进周舟的心。当两人沉醉热恋时，已收敛张扬个性的邱飞，却卷入一场斗殴事件，他似乎在隐藏什么秘密？被迫退学的邱飞，在周舟痛苦的挽留下转身离去，只有他知道自己所做一切都是为了保护这个心爱的女孩。十多年后的周舟终于知道了真相，面对青春最痛的错过，她还能找回这段爱情吗……",
+    "dur": 96,
+    "egg": false,
+    "enm": "To Be With You",
+    "episodeDur": 96,
+    "episodes": 0,
+    "filmAlias": "草样年华",
+    "globalReleased": false,
+    "guideToWish": true,
+    "id": 569718,
+    "img": "http://p1.meituan.net/w.h/movie/88b14189629176dfada3e749bfacc2f83725061.jpg",
+    "latestEpisode": 0,
+    "modcsSt": false,
+    "movieType": 0,
+    "multiPub": false,
+    "musicNum": 0,
+    "nm": "我的青春有个你",
+    "onSale": true,
+    "onlinePlay": false,
+    "orderSt": 0,
+    "oriLang": "国语",
+    "photos": [
+     "http://p0.meituan.net/w.h/movie/92d530c9de7b38a0a26cb313f604bd333501505.jpg@2500w_2500h_1l_0e",
+     "http://p0.meituan.net/w.h/movie/82d4ad2659ecd08cbd4203cc7faa97993601867.jpg@2500w_2500h_1l_0e",
+     "http://p1.meituan.net/w.h/movie/74d1bcdc4c89519fa3c3ba7605b5cc252592995.jpg@2500w_2500h_1l_0e",
+     "http://p0.meituan.net/w.h/movie/cc973b754364e449ea534237152ba5232362484.jpg@2500w_2500h_1l_0e",
+     "http://p0.meituan.net/w.h/movie/9b45d10d266ab8e362881e80484a53ae2199300.jpg@2500w_2500h_1l_0e",
+     "http://p1.meituan.net/w.h/movie/2e19619487f259c65f1a229434a0366f2598363.jpg@2500w_2500h_1l_0e",
+     "http://p1.meituan.net/w.h/movie/339908d0d17712c6f0f6d37dc6bd77d32065799.jpg@2500w_2500h_1l_0e",
+     "http://p0.meituan.net/w.h/movie/3a5d5789e0d031684dd09b4f1c1f04dc4955383.jpg@2500w_2500h_1l_0e",
+     "http://p1.meituan.net/w.h/movie/6a213d2832801e5cf7e01e06dfcfec1c5048230.jpg@2500w_2500h_1l_0e",
+     "http://p0.meituan.net/w.h/movie/c8cb4535dd882147985d6587b03f39ad5014400.jpg@2500w_2500h_1l_0e",
+     "http://p0.meituan.net/w.h/movie/a550c51a75696966405489639d3be2404302010.jpg@2500w_2500h_1l_0e",
+     "http://p1.meituan.net/w.h/movie/dd20a06dd6b350d15ccdadbe6e65fe973917137.jpg@2500w_2500h_1l_0e",
+     "http://p1.meituan.net/w.h/movie/078d13c6e7c8d8aeec5311c7d682a0203858293.jpg@2500w_2500h_1l_0e",
+     "http://p0.meituan.net/w.h/movie/36059df2d34b483c0742b544b42c13af2810597.jpg@2500w_2500h_1l_0e",
+     "http://p0.meituan.net/w.h/movie/d23825e0288ed89f9c0c553e590e88b0123537.jpg@2500w_2500h_1l_0e",
+     "http://p1.meituan.net/w.h/movie/57b726aeded4062c815ed0a8eb7b6874141661.jpg@2500w_2500h_1l_0e",
+     "http://p1.meituan.net/w.h/movie/88b14189629176dfada3e749bfacc2f83725061.jpg@2500w_2500h_1l_0e",
+     "http://p0.meituan.net/w.h/movie/8fd1e7c484e16f8be4d48ddebbddcc3c3672977.jpg@2500w_2500h_1l_0e",
+     "http://p0.meituan.net/w.h/movie/fd48094ce2b75b704491cbdb51b0b30885213.jpg@2500w_2500h_1l_0e",
+     "http://p0.meituan.net/w.h/movie/c6bee593dab3e20002b4e8693b1c3fb6416625.jpg@2500w_2500h_1l_0e"
+    ],
+    "pn": 26,
+    "preScorePersona": false,
+    "proScore": 0,
+    "proScoreNum": 0,
+    "pubDate": 1631980800000,
+    "pubDesc": "2021-09-19 08:00中国大陆上映",
+    "rt": "2021-09-19",
+    "sc": 0,
+    "scm": "2021致青春遗憾的告别曲",
+    "scoreLabel": "暂无评分",
+    "shareInfo": {
+     "channel": 1,
+     "content": "简介|大学军训里一场意外，让乖乖女周舟（王可如 饰）和学渣混混邱飞（刘冬沁 饰），彼此相遇。从英雄救美到勇敢表白，张扬的邱飞就这样走进周舟的心。当两人沉醉热恋时，已收敛张扬个性的邱飞，却卷入一场斗殴事件，他似乎在隐藏什么秘密？被迫退学的邱飞，在周舟痛苦的挽留下转身离去，只有他知道自己所做一切都是为了保护这个心爱的女孩。十多年后的周舟终于知道了真相，面对青春最痛的错过，她还能找回这段爱情吗……",
+     "img": "http://p1.meituan.net/w.h/movie/88b14189629176dfada3e749bfacc2f83725061.jpg",
+     "title": "《我的青春有个你》277083人想看，2021-09-19 08:00中国大陆上映",
+     "url": "https://m.maoyan.com/asgard/movie/569718"
+    },
+    "showst": 4,
+    "snum": 1477,
+    "src": "中国大陆",
+    "star": "王可如,刘冬沁,李欢",
+    "type": 0,
+    "vd": "https://vod.pipi.cn/fec9203cvodtransbj1251246104/02ab86ff3701925924317145344/v.f42905.mp4",
+    "ver": "2D",
+    "videoImg": "https://obj.pipi.cn/friday/1502aba318112928e1528c504b590b9d.jpg",
+    "videoName": "《我的青春有个你》曝终极预告，9月19日，爱过你，不后悔！",
+    "videourl": "https://vod.pipi.cn/fec9203cvodtransbj1251246104/02ab86ff3701925924317145344/v.f42905.mp4",
+    "viewedSt": 0,
+    "vnum": 4,
+    "vodFreeSt": 0,
+    "vodPlay": false,
+    "vodSt": 0,
+    "watched": 114,
+    "wish": 277083,
+    "wishst": 0,
+    "version": ""
+   }
+  }
+ }
+]

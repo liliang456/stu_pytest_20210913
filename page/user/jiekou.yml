@@ -1,0 +1,28 @@
+premise:
+  None
+test_case:
+- address: /jisuapi/weather
+  check:
+    check_type: json
+    expected_code: 200
+    expected_request: check_weather.json
+  headers:
+    Content-Type : application/json; charset=utf-8
+  cookies: true
+  depend: false
+  file: false
+  http_type: http
+  info: caipu
+  parameter:
+    appkey: 633ff4f216924f7321c7c28d286dce13
+  parameter_type: application/x-www-form-urlencoded
+  rele_depend: ticket
+  relevance: None
+  request_type: get
+  test_name: check_weather
+  timeout: 20
+test_info:
+  address: /jisuapi/weather
+  host: way.jd.com
+  id: test_weather_01
+  title: weather

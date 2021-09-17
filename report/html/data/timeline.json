@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "CFDN-20190518ZE",
+    "children" : [ {
+      "name" : "9732-MainThread",
+      "children" : [ {
+        "name" : "test_vip_goods_of_yueka[case_data0]",
+        "uid" : "e3eb0862e6339860",
+        "parentUid" : "944b87d843c81ca36617a57562130fed",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631526918454,
+          "stop" : 1631526919285,
+          "duration" : 831
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/liuyi/rest77/pay/acquire', 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'vip_pay.json'}, 'cookies': True, 'depend': True, 'file': False, 'headers': {'Accept': 'application/json, text/plain, */*', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Authorization': 'Bearer 8b1eb1568245b5844e824d1df31e0a46', 'Connection': 'keep-alive', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'Referer': 'http://rest79.652615.com/?appKey=6682119c5d55765c882bd2d9997df2c1&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '6682119c5d55765c882bd2d9997df2c1', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'X-Requested-With': 'com.www.cn.zhimahaojie'}, 'http_type': 'http', 'info': 'vip_pay', 'parameter': {'bizKey': 2, 'goodsId': 766, 'pay': 'alipay', 'returnUrl': '/find', 'ticket': '8300be75ac44c0da7fa7ff60c4a73478', 'way': 'alipay_app'}, 'parameter_type': 'application/x-www-form-urlencoded', 'rele_depend': 'ticket', 'relevance': 'None', 'request_type': 'GET', 'test_name': 'vip_pay', 'timeout': 20}" ]
+      } ],
+      "uid" : "944b87d843c81ca36617a57562130fed"
+    } ],
+    "uid" : "055c09eef49b223ea38d78f546504427"
+  } ]
+}

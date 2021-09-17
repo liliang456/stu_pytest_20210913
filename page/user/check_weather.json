@@ -1,0 +1,16 @@
+[
+ {
+  "test_name": "check_weather",
+  "json": {
+   "code": "10000",
+   "charge": false,
+   "msg": "查询成功",
+   "result": {
+    "status": 201,
+    "msg": "城市和城市ID和城市代号和经纬度和IP都为空",
+    "result": ""
+   },
+   "requestId": "6924a095095146689f546e4e9af90d5c"
+  }
+ }
+]

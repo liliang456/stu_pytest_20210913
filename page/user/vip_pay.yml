@@ -1,0 +1,47 @@
+premise:
+- address: /liuyi/rest79/pay/ticket
+  cookies: true
+  headers: &id001
+    Authorization: Bearer 3c73ea977a75557812bdf9d8dd9f54f0
+    User-Agent: Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv)
+      AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile
+      Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950
+    X-Liuyi-App-Key: 6682119c5d55765c882bd2d9997df2c1
+    X-Liuyi-Device-ID: 4bc8be9552bb0131
+  http_type: http
+  parameter:
+    time: 1631524244
+  relevance: data
+  request_type: GET
+  test_name: vip_ticket
+  timeout: 20
+test_case:
+- address: /liuyi/rest77/pay/acquire
+  check:
+    check_type: json
+    expected_code: 200
+    expected_request: vip_pay.json
+  cookies: true
+  depend: true
+  file: false
+  headers: *id001
+  http_type: http
+  info: vip_pay
+  parameter:
+    bizKey: 2
+    goodsId: 766
+    pay: alipay
+    returnUrl: /find
+    ticket: 9bab78d4e08767e3beb8a59b26008037
+    way: alipay_app
+  parameter_type: application/x-www-form-urlencoded
+  rele_depend: ticket
+  relevance: None
+  request_type: GET
+  test_name: vip_pay
+  timeout: 20
+test_info:
+  address: /liuyi/rest77/pay/ticket
+  host: api.652615.com
+  id: test_ticket_01
+  title: pay

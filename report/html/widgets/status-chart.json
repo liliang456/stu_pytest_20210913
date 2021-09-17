@@ -1,0 +1,11 @@
+[ {
+  "uid" : "e3eb0862e6339860",
+  "name" : "test_vip_goods_of_yueka[case_data0]",
+  "time" : {
+    "start" : 1631526918454,
+    "stop" : 1631526919285,
+    "duration" : 831
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
